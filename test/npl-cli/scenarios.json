@@ -1,0 +1,8 @@
+{
+  "cli": {
+    "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+    "features": {
+      "npl-cli": {}
+    }
+  }
+}
