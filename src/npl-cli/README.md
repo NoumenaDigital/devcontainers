@@ -1,7 +1,6 @@
+# NPL CLI
 
-# NPL
-
-A dev-container feature to make your dev-container perfect for NPL development. 
+A dev-container feature which installs the NPL CLI, allowing you to develop and test NPL applications within a containerized environment.
 
 ## Example Usage
 

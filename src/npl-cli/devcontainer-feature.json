@@ -2,7 +2,7 @@
   "name": "NPL CLI",
   "id": "npl-cli",
   "version": "1.0.0",
-  "description": "The NPL CLI tool is a command-line interface for managing and interacting with the Noumena Protocol Layer (NPL). It provides functionalities to deploy, manage, and interact with smart contracts on the NPL blockchain.",
+  "description": "A dev-container feature which installs the NPL CLI, allowing you to develop and test NPL applications within a containerized environment.",
   "options": {
   },
   "dependsOn": {
