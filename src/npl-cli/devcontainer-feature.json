@@ -1,0 +1,14 @@
+{
+  "name": "NPL CLI",
+  "id": "npl-cli",
+  "version": "1.0.0",
+  "description": "A dev-container feature which installs the NPL CLI, allowing you to develop and test NPL applications within a containerized environment.",
+  "options": {
+  },
+  "dependsOn": {
+    "ghcr.io/devcontainers-extra/features/curl-apt-get:1": {}
+  },
+  "installsAfter": [
+    "ghcr.io/devcontainers/features/common-utils"
+  ]
+}
