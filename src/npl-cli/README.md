@@ -7,6 +7,6 @@ A dev-container feature to make your dev-container perfect for NPL development.
 
 ```json
 "features": {
-    "ghcr.io/yigal-noumena/feature-npl/npl-cli:1": {}
+    "ghcr.io/noumenadigital/devcontainers/npl-cli:1": {}
 }
 ```

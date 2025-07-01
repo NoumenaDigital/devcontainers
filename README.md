@@ -10,7 +10,7 @@ The `npl-cli` feature allows you to run the `npl` CLI inside the built container
 {
     "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
     "features": {
-        "ghcr.io/noumenadigital/feature-npl/cli:1": {}
+        "ghcr.io/noumenadigital/devcontainers/cli:1": {}
     }
 }
 ```
